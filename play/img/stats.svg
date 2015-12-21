@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="400"
+   height="300"
+   id="svg6802">
+  <defs
+     id="defs6804">
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Send"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         id="path3910"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         id="path3904"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Send"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         id="path3892"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Send-3"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         id="path3910-0"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Send5"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         id="path8163"
+         style="fill:#666666;fill-rule:evenodd;stroke:#666666;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Sendp"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         id="path8219"
+         style="fill:#666666;fill-rule:evenodd;stroke:#666666;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata6807">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-151.42856,-273.79077)"
+     id="layer1">
+    <path
+       d="m 180.45298,274.21776 0,272.54859 369.92623,0"
+       id="path7331"
+       style="fill:none;stroke:#ffffff;stroke-width:2.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <flowRoot
+       transform="matrix(0,-0.44463414,0.44463414,0,90.847207,483.75159)"
+       id="flowRoot7333"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion7335"><rect
+           width="294.85297"
+           height="109.34584"
+           x="-125.12211"
+           y="138.42928"
+           id="rect7337"
+           style="fill:#666666;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara7339"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;fill:#666666;fill-opacity:1;font-family:Manifold CF;-inkscape-font-specification:Manifold CF Ultra-Bold">СЕГРЕГАЦИЯ</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.44463414,0,0,0.44463414,240.84213,486.15865)"
+       id="flowRoot7333-2"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion7335-1"><rect
+           width="294.85297"
+           height="109.34584"
+           x="-125.12211"
+           y="138.42928"
+           id="rect7337-1"
+           style="fill:#666666;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara7339-0"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;fill:#666666;fill-opacity:1;font-family:Manifold CF;-inkscape-font-specification:Manifold CF Ultra-Bold">ВРЕМЯ</flowPara></flowRoot>    <path
+       d="m 101.72971,285.85576 283.97278,-0.54401"
+       transform="translate(151.42856,273.79077)"
+       id="path7368"
+       style="fill:none;stroke:#666666;stroke-width:2.5999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Send5)" />
+    <path
+       d="M 166.01935,426.30441 165.47534,290.02863"
+       id="path7368-3"
+       style="fill:none;stroke:#666666;stroke-width:2.5999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Sendp)" />
+  </g>
+</svg>

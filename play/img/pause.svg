@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.2"
+   width="225"
+   height="60"
+   id="svg9374">
+  <defs
+     id="defs9376" />
+  <metadata
+     id="metadata9379">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-262.41449,-502.17935)"
+     id="layer1">
+    <rect
+       width="225.17104"
+       height="59.634338"
+       x="262.41449"
+       y="502.54501"
+       id="rect6636-9"
+       style="color:#000000;fill:#cc2727;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <flowRoot
+       transform="matrix(0.74563452,0,0,1.0922546,99.37158,239.03455)"
+       id="flowRoot6663"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:-0.00864151px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion6665"><rect
+           width="314.96527"
+           height="63.747066"
+           x="237.16644"
+           y="240.10136"
+           id="rect6667"
+           style="letter-spacing:-0.00864151px;fill:#eeeeee;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara6669"
+         style="font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;letter-spacing:-0.00864151px;text-anchor:middle;fill:#eeeeee;fill-opacity:1;font-family:Manifold CF;-inkscape-font-specification:Manifold CF Semi-Light">СТАРТ</flowPara></flowRoot>    <rect
+       width="225.17104"
+       height="6.1690693"
+       x="262.41449"
+       y="556.01025"
+       id="rect6636-9-3"
+       style="color:#000000;fill:#b21d1d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       width="225.17104"
+       height="4.7981648"
+       x="262.41449"
+       y="557.38116"
+       id="rect6636-9-3-3"
+       style="color:#000000;fill:#991414;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 141.40756,346.49008 -29.33613,0 -29.336135,0 14.668065,-25.40583 14.66807,-25.40584 14.66806,25.40583 z"
+       transform="matrix(0,0.63610215,-0.63610215,0,497.4444,459.68394)"
+       id="path6632-5"
+       style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+</svg>
