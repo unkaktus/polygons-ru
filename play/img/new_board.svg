@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.2"
+   width="225"
+   height="60"
+   id="svg6103">
+  <defs
+     id="defs6105" />
+  <metadata
+     id="metadata6108">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-173.07668,-234.22917)"
+     id="layer1">
+    <rect
+       width="225.17104"
+       height="60.31979"
+       x="173.07668"
+       y="233.90936"
+       id="rect6636-9"
+       style="color:#000000;fill:#cc2727;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <flowRoot
+       transform="matrix(0.74563452,0,0,1.0922546,48.033785,-28.915637)"
+       id="flowRoot6663"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:-0.00864151px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion6665"><rect
+           width="314.96527"
+           height="63.747066"
+           x="237.16644"
+           y="240.10136"
+           id="rect6667"
+           style="letter-spacing:-0.00864151px;fill:#eeeeee;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara6669"
+         style="font-style:normal;font-variant:normal;font-stretch:normal;letter-spacing:-0.00864151px;fill:#eeeeee;fill-opacity:1;font-family:Manifold CF;-inkscape-font-specification:Manifold CF Semi-Light">НОВОЕ ПОЛЕ</flowPara></flowRoot>    <g
+       transform="translate(0,0.6043469)"
+       id="g8308">
+      <rect
+         width="8.8986883"
+         height="8.8986883"
+         x="194.30037"
+         y="243.82689"
+         id="rect6634"
+         style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         width="8.8986883"
+         height="8.8986883"
+         x="194.30037"
+         y="271.0762"
+         id="rect6634-4"
+         style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="m 141.40756,346.49008 -29.33613,0 -29.336135,0 14.668065,-25.40583 14.66807,-25.40584 14.66806,25.40583 z"
+         transform="matrix(0.17135749,0,0,0.17135749,192.15193,204.80242)"
+         id="path6632-7"
+         style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         width="8.8986883"
+         height="8.8986883"
+         x="206.90686"
+         y="271.0762"
+         id="rect6634-0"
+         style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="m 141.40756,346.49008 -29.33613,0 -29.336135,0 14.668065,-25.40583 14.66807,-25.40584 14.66806,25.40583 z"
+         transform="matrix(0.17135749,0,0,0.17135749,166.93894,192.97368)"
+         id="path6632"
+         style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="m 141.40756,346.49008 -29.33613,0 -29.336135,0 14.668065,-25.40583 14.66807,-25.40584 14.66806,25.40583 z"
+         transform="matrix(0.17135749,0,0,0.17135749,166.93894,220.28289)"
+         id="path6632-7-3"
+         style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <rect
+       width="225.17104"
+       height="6.1690693"
+       x="173.07668"
+       y="288.06009"
+       id="rect6636-9-3"
+       style="color:#000000;fill:#b21d1d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       width="225.17104"
+       height="4.7981648"
+       x="173.07668"
+       y="289.431"
+       id="rect6636-9-3-3"
+       style="color:#000000;fill:#991414;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+</svg>
