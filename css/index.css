@@ -3,7 +3,7 @@ body{
 	margin:0;
 	background: #eee;
 
-	font-family: sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 22px;
 	font-weight: 100;
 	line-height: 30px;
@@ -75,7 +75,7 @@ iframe[embedded]{
 }
 
 .instruction{
-	text-align:center; font-weight:bold; font-size:25px
+	text-align:center; font-weight:400; font-size:25px
 }
 
 /**
